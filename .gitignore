@@ -1,4 +1,4 @@
 .*
 bin/
 !.gitignore
-module_info.java
+src/module_info.java
